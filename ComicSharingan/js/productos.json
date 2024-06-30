@@ -1,0 +1,134 @@
+[
+    {
+        "id": "comics-01",
+        "titulo": "Harley Quinn",
+        "imagen": "./img/comics/01.jpg",
+        "categoria": {
+            "nombre": "Cómics",
+            "id": "comics"
+        },
+        "precio": 7990
+    },
+    {
+        "id": "comics-02",
+        "titulo": "Justice League",
+        "imagen": "./img/comics/02.jpg",
+        "categoria": {
+            "nombre": "Cómics",
+            "id": "comics"
+        },
+        "precio": 11990
+    },
+    {
+        "id": "comics-03",
+        "titulo": "Un caballero Oscuro",
+        "imagen": "./img/comics/03.jpg",
+        "categoria": {
+            "nombre": "Cómics",
+            "id": "comics"
+        },
+        "precio": 4990
+    },
+
+    {
+        "id": "mangas-01",
+        "titulo": "Death Note",
+        "imagen": "./img/mangas/01.jpg",
+        "categoria": {
+            "nombre": "Mangas",
+            "id": "mangas"
+        },
+        "precio": 5990
+    },
+    {
+        "id": "mangas-02",
+        "titulo": "Dr. Stone",
+        "imagen": "./img/mangas/02.jpg",
+        "categoria": {
+            "nombre": "Mangas",
+            "id": "mangas"
+        },
+        "precio": 8990
+    },
+    {
+        "id": "mangas-03",
+        "titulo": "Hunter x Hunter",
+        "imagen": "./img/mangas/03.jpg",
+        "categoria": {
+            "nombre": "Mangas",
+            "id": "mangas"
+        },
+        "precio": 8990
+    },
+    {
+        "id": "mangas-04",
+        "titulo": "Jujutsu Kaysen",
+        "imagen": "./img/mangas/04.jpg",
+        "categoria": {
+            "nombre": "Mangas",
+            "id": "mangas"
+        },
+        "precio": 8990
+    },
+    {
+        "id": "mangas-05",
+        "titulo": "Kimetsu no Yaiba",
+        "imagen": "./img/mangas/05.jpg",
+        "categoria": {
+            "nombre": "Mangas",
+            "id": "mangas"
+        },
+        "precio": 7990
+    },
+    {
+        "id": "mangas-06",
+        "titulo": "My Hero Academia",
+        "imagen": "./img/mangas/06.jpg",
+        "categoria": {
+            "nombre": "Mangas",
+            "id": "mangas"
+        },
+        "precio": 8990
+    },
+    {
+        "id": "mangas-07",
+        "titulo": "Oyasumi Punpun",
+        "imagen": "./img/mangas/07.jpg",
+        "categoria": {
+            "nombre": "Mangas",
+            "id": "mangas"
+        },
+        "precio": 4990
+    },
+
+    {
+        "id": "otros-01",
+        "titulo": "Cuando la muerte se enamore",
+        "imagen": "./img/otros/01.jpg",
+        "categoria": {
+            "nombre": "Otros",
+            "id": "otros"
+        },
+        "precio": 5990
+    },
+    {
+        "id": "otros-02",
+        "titulo": "Guia Amarilla",
+        "imagen": "./img/otros/02.jpg",
+        "categoria": {
+            "nombre": "Otros",
+            "id": "otros"
+        },
+        "precio": 2990
+    },
+    {
+        "id": "otros-03",
+        "titulo": "Solo leveling",
+        "imagen": "./img/otros/03.jpg",
+        "categoria": {
+            "nombre": "Otros",
+            "id": "otros"
+        },
+        "precio": 12990
+    }
+]
